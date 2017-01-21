@@ -1,548 +1,940 @@
 {
-  "categories": [{
-    "category_id": "1000",
-    "category_name": "Alphabet",
-    "category_thumbnail": "1000.png",
-    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
-    "file_extension": "png",
-    "animes": [{
-      "anime_id": "71",
-      "anime_name": "A",
-      "anime_step": 5
-    }, {
-      "anime_id": "72",
-      "anime_name": "B",
-      "anime_step": 5
-    }, {
-      "anime_id": "73",
-      "anime_name": "C",
-      "anime_step": 5
-    }, {
-      "anime_id": "74",
-      "anime_name": "D",
-      "anime_step": 5
-    }, {
-      "anime_id": "75",
-      "anime_name": "E",
-      "anime_step": 5
-    }, {
-      "anime_id": "76",
-      "anime_name": "F",
-      "anime_step": 5
-    }, {
-      "anime_id": "77",
-      "anime_name": "G",
-      "anime_step": 5
-    }, {
-      "anime_id": "78",
-      "anime_name": "H",
-      "anime_step": 5
-    }, {
-      "anime_id": "79",
-      "anime_name": "I",
-      "anime_step": 6
-    }, {
-      "anime_id": "80",
-      "anime_name": "J",
-      "anime_step": 5
-    }, {
-      "anime_id": "81",
-      "anime_name": "K",
-      "anime_step": 5
-    }, {
-      "anime_id": "82",
-      "anime_name": "L",
-      "anime_step": 5
-    }, {
-      "anime_id": "83",
-      "anime_name": "M",
-      "anime_step": 5
-    }, {
-      "anime_id": "84",
-      "anime_name": "N",
-      "anime_step": 4
-    }, {
-      "anime_id": "85",
-      "anime_name": "O",
-      "anime_step": 5
-    }, {
-      "anime_id": "86",
-      "anime_name": "P",
-      "anime_step": 4
-    }, {
-      "anime_id": "87",
-      "anime_name": "Q",
-      "anime_step": 5
-    }, {
-      "anime_id": "88",
-      "anime_name": "R",
-      "anime_step": 5
-    }, {
-      "anime_id": "89",
-      "anime_name": "S",
-      "anime_step": 5
-    }, {
-      "anime_id": "90",
-      "anime_name": "T",
-      "anime_step": 5
-    }, {
-      "anime_id": "91",
-      "anime_name": "U",
-      "anime_step": 5
-    }, {
-      "anime_id": "92",
-      "anime_name": "V",
-      "anime_step": 5
-    }, {
-      "anime_id": "93",
-      "anime_name": "W",
-      "anime_step": 5
-    }, {
-      "anime_id": "94",
-      "anime_name": "X",
-      "anime_step": 5
-    }, {
-      "anime_id": "95",
-      "anime_name": "Y",
-      "anime_step": 5
-    }, {
-      "anime_id": "96",
-      "anime_name": "Z",
-      "anime_step": 5
-    }]
-  }, {
-    "category_id": "1001",
-    "category_name": "Letter A",
-    "category_thumbnail": "1001.png",
-    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
-    "file_extension": "png",
-    "animes": [{
-      "anime_id": "1",
-      "anime_name": "Alphabet",
-      "anime_step": 26
-    }, {
-      "anime_id": "2",
-      "anime_name": "Andi",
-      "anime_step": 9
-    }, {
-      "anime_id": "3",
-      "anime_name": "Arte",
-      "anime_step": 10
-    }]
-  }, {
-    "category_id": "1002",
-    "category_name": "Letter B",
-    "category_thumbnail": "1002.png",
-    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
-    "file_extension": "png",
-    "animes": [{
-      "anime_id": "1",
-      "anime_name": "Basketball",
-      "anime_step": 6
-    }, {
-      "anime_id": "2",
-      "anime_name": "Best",
-      "anime_step": 8
-    }, {
-      "anime_id": "3",
-      "anime_name": "BMX",
-      "anime_step": 6
-    }, {
-      "anime_id": "4",
-      "anime_name": "Bomb 1",
-      "anime_step": 6
-    }, {
-      "anime_id": "5",
-      "anime_name": "Bomb 2",
-      "anime_step": 8
-    }, {
-      "anime_id": "6",
-      "anime_name": "Batl",
-      "anime_step": 18
-    }]
-  }, {
-    "category_id": "1003",
-    "category_name": "Letter C",
-    "category_thumbnail": "1003.png",
-    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
-    "file_extension": "png",
-    "animes": [{
-      "anime_id": "1",
-      "anime_name": "Candy",
-      "anime_step": 9
-    }, {
-      "anime_id": "2",
-      "anime_name": "Censored",
-      "anime_step": 5
-    }, {
-      "anime_id": "3",
-      "anime_name": "Crew",
-      "anime_step": 23
-    }]
-  }, {
-    "category_id": "1004",
-    "category_name": "Letter D",
-    "category_thumbnail": "1004.png",
-    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
-    "file_extension": "png",
-    "animes": [{
-      "anime_id": "1",
-      "anime_name": "Dr Dre",
-      "anime_step": 5
-    }, {
-      "anime_id": "2",
-      "anime_name": "Dream",
-      "anime_step": 9
-    }, {
-      "anime_id": "3",
-      "anime_name": "DubStep 1",
-      "anime_step": 30
-    }, {
-      "anime_id": "5",
-      "anime_name": "DubStep 2",
-      "anime_step": 11
-    }, {
-      "anime_id": "4",
-      "anime_name": "DuB",
-      "anime_step": 30
-    }]
-  }, {
-    "category_id": "1006",
-    "category_name": "Letter F",
-    "category_thumbnail": "1006.png",
-    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
-    "file_extension": "png",
-    "animes": [{
-      "anime_id": "1",
-      "anime_name": "FreeStyle 1",
-      "anime_step": 7
-    }, {
-      "anime_id": "2",
-      "anime_name": "FreeStyle 2",
-      "anime_step": 9
-    }]
-  }, {
-    "category_id": "1007",
-    "category_name": "Letter G",
-    "category_thumbnail": "1007.png",
-    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
-    "file_extension": "png",
-    "animes": [{
-      "anime_id": "1",
-      "anime_name": "Ganja",
-      "anime_step": 7
-    }, {
-      "anime_id": "4",
-      "anime_name": "Gangsta",
-      "anime_step": 10
-    }, {
-      "anime_id": "2",
-      "anime_name": "Graffiti 1",
-      "anime_step": 12
-    }, {
-      "anime_id": "3",
-      "anime_name": "Graffiti 2",
-      "anime_step": 5
-    }]
-  }, {
-    "category_id": "1008",
-    "category_name": "Letter H",
-    "category_thumbnail": "1008.png",
-    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
-    "file_extension": "png",
-    "animes": [{
-      "anime_id": "1",
-      "anime_name": "Hip-Hop 1",
-      "anime_step": 7
-    }, {
-      "anime_id": "2",
-      "anime_name": "Hip-Hop 2",
-      "anime_step": 9
-    }, {
-      "anime_id": "3",
-      "anime_name": "Hope 1",
-      "anime_step": 9
-    }, {
-      "anime_id": "4",
-      "anime_name": "Hope 2",
-      "anime_step": 8
-    }]
-  }, {
-    "category_id": "1010",
-    "category_name": "Letter J",
-    "category_thumbnail": "1010.png",
-    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
-    "file_extension": "png",
-    "animes": [{
-      "anime_id": "1",
-      "anime_name": "Jay-Z",
-      "anime_step": 6
-    }, {
-      "anime_id": "2",
-      "anime_name": "Jesus",
-      "anime_step": 17
-    }]
-  }, {
-    "category_id": "1011",
-    "category_name": "Letter K",
-    "category_thumbnail": "1011.png",
-    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
-    "file_extension": "png",
-    "animes": [{
-      "anime_id": "1",
-      "anime_name": "King",
-      "anime_step": 9
-    }]
-  }, {
-    "category_id": "1012",
-    "category_name": "Letter L",
-    "category_thumbnail": "1012.png",
-    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
-    "file_extension": "png",
-    "animes": [{
-      "anime_id": "1",
-      "anime_name": "Love 1",
-      "anime_step": 9
-    }, {
-      "anime_id": "2",
-      "anime_name": "Love 2",
-      "anime_step": 9
-    }, {
-      "anime_id": "3",
-      "anime_name": "Love 3",
-      "anime_step": 9
-    }, {
-      "anime_id": "4",
-      "anime_name": "Lucky",
-      "anime_step": 9
-    }]
-  }, {
-    "category_id": "1013",
-    "category_name": "Letter M",
-    "category_thumbnail": "1013.png",
-    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
-    "file_extension": "png",
-    "animes": [{
-      "anime_id": "1",
-      "anime_name": "Mom",
-      "anime_step": 8
-    }, {
-      "anime_id": "2",
-      "anime_name": "Money",
-      "anime_step": 10
-    }, {
-      "anime_id": "3",
-      "anime_name": "Music 1",
-      "anime_step": 9
-    }, {
-      "anime_id": "4",
-      "anime_name": "Music 2",
-      "anime_step": 7
-    }, {
-      "anime_id": "5",
-      "anime_name": "Music 3",
-      "anime_step": 9
-    }, {
-      "anime_id": "6",
-      "anime_name": "Monsta",
-      "anime_step": 22
-    }]
-  }, {
-    "category_id": "1014",
-    "category_name": "Letter N",
-    "category_thumbnail": "1014.png",
-    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
-    "file_extension": "png",
-    "animes": [{
-      "anime_id": "1",
-      "anime_name": "Notorious BIG",
-      "anime_step": 8
-    }]
-  }, {
-    "category_id": "1015",
-    "category_name": "Letter O",
-    "category_thumbnail": "1015.png",
-    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
-    "file_extension": "png",
-    "animes": [{
-      "anime_id": "1",
-      "anime_name": "Obey",
-      "anime_step": 8
-    }, {
-      "anime_id": "2",
-      "anime_name": "Old School 1",
-      "anime_step": 13
-    }, {
-      "anime_id": "3",
-      "anime_name": "Old School 2",
-      "anime_step": 6
-    }]
-  }, {
-    "category_id": "1016",
-    "category_name": "Letter P",
-    "category_thumbnail": "1016.png",
-    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
-    "file_extension": "png",
-    "animes": [{
-      "anime_id": "1",
-      "anime_name": "Peace 1",
-      "anime_step": 9
-    }, {
-      "anime_id": "2",
-      "anime_name": "Peace 2",
-      "anime_step": 16
-    }, {
-      "anime_id": "3",
-      "anime_name": "Pink",
-      "anime_step": 11
-    }]
-  }, {
-    "category_id": "1018",
-    "category_name": "Letter R",
-    "category_thumbnail": "1018.png",
-    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
-    "file_extension": "png",
-    "animes": [{
-      "anime_id": "1",
-      "anime_name": "Risk",
-      "anime_step": 8
-    }, {
-      "anime_id": "2",
-      "anime_name": "Rock 1",
-      "anime_step": 9
-    }, {
-      "anime_id": "3",
-      "anime_name": "Rock 2",
-      "anime_step": 10
-    }, {
-      "anime_id": "4",
-      "anime_name": "Respect",
-      "anime_step": 23
-    }]
-  }, {
-    "category_id": "1017",
-    "category_name": "Letter S",
-    "category_thumbnail": "1017.png",
-    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
-    "file_extension": "png",
-    "animes": [{
-      "anime_id": "1",
-      "anime_name": "Selfie",
-      "anime_step": 9
-    }, {
-      "anime_id": "2",
-      "anime_name": "Skateboard",
-      "anime_step": 8
-    }, {
-      "anime_id": "3",
-      "anime_name": "Soul 1",
-      "anime_step": 9
-    }, {
-      "anime_id": "8",
-      "anime_name": "Soul 2",
-      "anime_step": 16
-    }, {
-      "anime_id": "4",
-      "anime_name": "Streetball",
-      "anime_step": 9
-    }, {
-      "anime_id": "5",
-      "anime_name": "Style 1",
-      "anime_step": 9
-    }, {
-      "anime_id": "6",
-      "anime_name": "Style 2",
-      "anime_step": 10
-    }, {
-      "anime_id": "7",
-      "anime_name": "Swag 1",
-      "anime_step": 8
-    }, {
-      "anime_id": "9",
-      "anime_name": "Swag 2",
-      "anime_step": 9
-    }]
-  }, {
-    "category_id": "1019",
-    "category_name": "Letter T",
-    "category_thumbnail": "1019.png",
-    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
-    "file_extension": "png",
-    "animes": [{
-      "anime_id": "1",
-      "anime_name": "Teamo",
-      "anime_step": 10
-    }]
-  }, {
-    "category_id": "1020",
-    "category_name": "Letter U",
-    "category_thumbnail": "1020.png",
-    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
-    "file_extension": "png",
-    "animes": [{
-      "anime_id": "1",
-      "anime_name": "Underground",
-      "anime_step": 6
-    }, {
-      "anime_id": "2",
-      "anime_name": "Urban",
-      "anime_step": 6
-    }]
-  }, {
-    "category_id": "1022",
-    "category_name": "Letter W",
-    "category_thumbnail": "1022.png",
-    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
-    "file_extension": "png",
-    "animes": [{
-      "anime_id": "1",
-      "anime_name": "Wanted",
-      "anime_step": 7
-    }, {
-      "anime_id": "2",
-      "anime_name": "Wild Style",
-      "anime_step": 21
-    }]
-  }, {
-    "category_id": "1024",
-    "category_name": "Letter Y",
-    "category_thumbnail": "1024.png",
-    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
-    "file_extension": "png",
-    "animes": [{
-      "anime_id": "1",
-      "anime_name": "Yolo",
-      "anime_step": 7
-    }, {
-      "anime_id": "2",
-      "anime_name": "Yes",
-      "anime_step": 19
-    }]
-  }, {
-    "category_id": "1025",
-    "category_name": "Letter Z",
-    "category_thumbnail": "1025.png",
-    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
-    "file_extension": "png",
-    "animes": [{
-      "anime_id": "1",
-      "anime_name": "Zombie",
-      "anime_step": 12
-    }]
-  }, {
-    "category_id": "1026",
-    "category_name": "Numeric",
-    "category_thumbnail": "1026.png",
-    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
-    "file_extension": "png",
-    "animes": [{
-      "anime_id": "1",
-      "anime_name": "2 Pac",
-      "anime_step": 7
-    }, {
-      "anime_id": "2",
-      "anime_name": "50 Cent",
-      "anime_step": 8
-    }]
-  }]
+	"categories": [{
+		"category_id": "1000",
+		"category_name": "Graffiti",
+		"category_thumbnail": "1000.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/graffiti/master/",
+		"file_extension": "png",
+		"is_video": "false",
+		"animes": [{
+			"anime_id": "1",
+			"anime_name": "2Pac",
+			"anime_step": 7
+		}, {
+			"anime_id": "2",
+			"anime_name": "50 Cent",
+			"anime_step": 8
+		}, {
+			"anime_id": "3",
+			"anime_name": "Alphabet",
+			"anime_step": 26
+		}, {
+			"anime_id": "4",
+			"anime_name": "Andi",
+			"anime_step": 9
+		}, {
+			"anime_id": "5",
+			"anime_name": "Arte",
+			"anime_step": 10
+		}, {
+			"anime_id": "6",
+			"anime_name": "Basketball",
+			"anime_step": 6
+		}, {
+			"anime_id": "7",
+			"anime_name": "Best",
+			"anime_step": 8
+		}, {
+			"anime_id": "8",
+			"anime_name": "BMX",
+			"anime_step": 6
+		}, {
+			"anime_id": "9",
+			"anime_name": "Bomb",
+			"anime_step": 6
+		}, {
+			"anime_id": "61",
+			"anime_name": "Bomb",
+			"anime_step": 8
+		}, {
+			"anime_id": "10",
+			"anime_name": "Candy",
+			"anime_step": 9
+		}, {
+			"anime_id": "11",
+			"anime_name": "Censored",
+			"anime_step": 5
+		}, {
+			"anime_id": "12",
+			"anime_name": "Dr Dre",
+			"anime_step": 5
+		}, {
+			"anime_id": "13",
+			"anime_name": "Dream",
+			"anime_step": 9
+		}, {
+			"anime_id": "14",
+			"anime_name": "FreeStyle",
+			"anime_step": 7
+		}, {
+			"anime_id": "63",
+			"anime_name": "FreeStyle",
+			"anime_step": 9
+		}, {
+			"anime_id": "15",
+			"anime_name": "Ganja",
+			"anime_step": 7
+		}, {
+			"anime_id": "16",
+			"anime_name": "Graffiti",
+			"anime_step": 12
+		}, {
+			"anime_id": "17",
+			"anime_name": "Graffiti",
+			"anime_step": 5
+		}, {
+			"anime_id": "18",
+			"anime_name": "Hip-Hop",
+			"anime_step": 7
+		}, {
+			"anime_id": "65",
+			"anime_name": "Hip-Hop",
+			"anime_step": 9
+		}, {
+			"anime_id": "19",
+			"anime_name": "Hope",
+			"anime_step": 9
+		}, {
+			"anime_id": "20",
+			"anime_name": "Hope",
+			"anime_step": 8
+		}, {
+			"anime_id": "21",
+			"anime_name": "Jay-Z",
+			"anime_step": 6
+		}, {
+			"anime_id": "22",
+			"anime_name": "King",
+			"anime_step": 9
+		}, {
+			"anime_id": "23",
+			"anime_name": "Love",
+			"anime_step": 9
+		}, {
+			"anime_id": "66",
+			"anime_name": "Love",
+			"anime_step": 9
+		}, {
+			"anime_id": "24",
+			"anime_name": "Love",
+			"anime_step": 9
+		}, {
+			"anime_id": "25",
+			"anime_name": "Mom",
+			"anime_step": 8
+		}, {
+			"anime_id": "26",
+			"anime_name": "Money",
+			"anime_step": 10
+		}, {
+			"anime_id": "27",
+			"anime_name": "Music",
+			"anime_step": 9
+		}, {
+			"anime_id": "28",
+			"anime_name": "Music",
+			"anime_step": 7
+		}, {
+			"anime_id": "68",
+			"anime_name": "Music",
+			"anime_step": 9
+		}, {
+			"anime_id": "29",
+			"anime_name": "Notorious BIG",
+			"anime_step": 8
+		}, {
+			"anime_id": "30",
+			"anime_name": "Obey",
+			"anime_step": 8
+		}, {
+			"anime_id": "32",
+			"anime_name": "Peace",
+			"anime_step": 9
+		}, {
+			"anime_id": "57",
+			"anime_name": "Peace",
+			"anime_step": 16
+		}, {
+			"anime_id": "33",
+			"anime_name": "Pink",
+			"anime_step": 11
+		}, {
+			"anime_id": "34",
+			"anime_name": "Risk",
+			"anime_step": 8
+		}, {
+			"anime_id": "35",
+			"anime_name": "Rock",
+			"anime_step": 9
+		}, {
+			"anime_id": "36",
+			"anime_name": "Rock",
+			"anime_step": 10
+		}, {
+			"anime_id": "37",
+			"anime_name": "Selfie",
+			"anime_step": 9
+		}, {
+			"anime_id": "38",
+			"anime_name": "Skateboard",
+			"anime_step": 8
+		}, {
+			"anime_id": "39",
+			"anime_name": "Soul",
+			"anime_step": 9
+		}, {
+			"anime_id": "40",
+			"anime_name": "Streetball",
+			"anime_step": 9
+		}, {
+			"anime_id": "41",
+			"anime_name": "Style",
+			"anime_step": 9
+		}, {
+			"anime_id": "42",
+			"anime_name": "Style",
+			"anime_step": 10
+		}, {
+			"anime_id": "43",
+			"anime_name": "Swag",
+			"anime_step": 8
+		}, {
+			"anime_id": "44",
+			"anime_name": "Underground",
+			"anime_step": 6
+		}, {
+			"anime_id": "45",
+			"anime_name": "Urban",
+			"anime_step": 6
+		}, {
+			"anime_id": "46",
+			"anime_name": "Teamo",
+			"anime_step": 10
+		}, {
+			"anime_id": "47",
+			"anime_name": "Wanted",
+			"anime_step": 7
+		}, {
+			"anime_id": "48",
+			"anime_name": "Yolo",
+			"anime_step": 7
+		}, {
+			"anime_id": "49",
+			"anime_name": "Zombie",
+			"anime_step": 12
+		}, {
+			"anime_id": "50",
+			"anime_name": "Wild Style",
+			"anime_step": 21
+		}, {
+			"anime_id": "51",
+			"anime_name": "Respect",
+			"anime_step": 23
+		}, {
+			"anime_id": "52",
+			"anime_name": "Batl",
+			"anime_step": 18
+		}, {
+			"anime_id": "53",
+			"anime_name": "DubStep",
+			"anime_step": 30
+		}, {
+			"anime_id": "54",
+			"anime_name": "DuB",
+			"anime_step": 30
+		}, {
+			"anime_id": "55",
+			"anime_name": "Crew",
+			"anime_step": 23
+		}, {
+			"anime_id": "56",
+			"anime_name": "Monsta",
+			"anime_step": 22
+		}, {
+			"anime_id": "58",
+			"anime_name": "Yes",
+			"anime_step": 19
+		}, {
+			"anime_id": "59",
+			"anime_name": "Soul",
+			"anime_step": 16
+		}, {
+			"anime_id": "60",
+			"anime_name": "Jesus",
+			"anime_step": 17
+		}, {
+			"anime_id": "62",
+			"anime_name": "DubStep",
+			"anime_step": 11
+		}, {
+			"anime_id": "64",
+			"anime_name": "Gangsta",
+			"anime_step": 10
+		}, {
+			"anime_id": "67",
+			"anime_name": "Lucky",
+			"anime_step": 9
+		}, {
+			"anime_id": "69",
+			"anime_name": "Old School",
+			"anime_step": 13
+		}, {
+			"anime_id": "31",
+			"anime_name": "Old School",
+			"anime_step": 6
+		}, {
+			"anime_id": "70",
+			"anime_name": "Swag",
+			"anime_step": 9
+		}, {
+			"anime_id": "71",
+			"anime_name": "A",
+			"anime_step": 5
+		}, {
+			"anime_id": "72",
+			"anime_name": "B",
+			"anime_step": 5
+		}, {
+			"anime_id": "73",
+			"anime_name": "C",
+			"anime_step": 5
+		}, {
+			"anime_id": "74",
+			"anime_name": "D",
+			"anime_step": 5
+		}, {
+			"anime_id": "75",
+			"anime_name": "E",
+			"anime_step": 5
+		}, {
+			"anime_id": "76",
+			"anime_name": "F",
+			"anime_step": 5
+		}, {
+			"anime_id": "77",
+			"anime_name": "G",
+			"anime_step": 5
+		}, {
+			"anime_id": "78",
+			"anime_name": "H",
+			"anime_step": 5
+		}, {
+			"anime_id": "79",
+			"anime_name": "I",
+			"anime_step": 6
+		}, {
+			"anime_id": "80",
+			"anime_name": "J",
+			"anime_step": 5
+		}, {
+			"anime_id": "81",
+			"anime_name": "K",
+			"anime_step": 5
+		}, {
+			"anime_id": "82",
+			"anime_name": "L",
+			"anime_step": 5
+		}, {
+			"anime_id": "83",
+			"anime_name": "M",
+			"anime_step": 5
+		}, {
+			"anime_id": "84",
+			"anime_name": "N",
+			"anime_step": 4
+		}, {
+			"anime_id": "85",
+			"anime_name": "O",
+			"anime_step": 5
+		}, {
+			"anime_id": "86",
+			"anime_name": "P",
+			"anime_step": 4
+		}, {
+			"anime_id": "87",
+			"anime_name": "Q",
+			"anime_step": 5
+		}, {
+			"anime_id": "88",
+			"anime_name": "R",
+			"anime_step": 5
+		}, {
+			"anime_id": "89",
+			"anime_name": "S",
+			"anime_step": 5
+		}, {
+			"anime_id": "90",
+			"anime_name": "T",
+			"anime_step": 5
+		}, {
+			"anime_id": "91",
+			"anime_name": "U",
+			"anime_step": 5
+		}, {
+			"anime_id": "92",
+			"anime_name": "V",
+			"anime_step": 5
+		}, {
+			"anime_id": "93",
+			"anime_name": "W",
+			"anime_step": 5
+		}, {
+			"anime_id": "94",
+			"anime_name": "X",
+			"anime_step": 5
+		}, {
+			"anime_id": "95",
+			"anime_name": "Y",
+			"anime_step": 5
+		}, {
+			"anime_id": "96",
+			"anime_name": "Z",
+			"anime_step": 5
+		}]
+	}, {
+		"category_id": "1000",
+		"category_name": "Alphabet",
+		"category_thumbnail": "1000.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "71",
+			"anime_name": "A",
+			"anime_step": 5
+		}, {
+			"anime_id": "72",
+			"anime_name": "B",
+			"anime_step": 5
+		}, {
+			"anime_id": "73",
+			"anime_name": "C",
+			"anime_step": 5
+		}, {
+			"anime_id": "74",
+			"anime_name": "D",
+			"anime_step": 5
+		}, {
+			"anime_id": "75",
+			"anime_name": "E",
+			"anime_step": 5
+		}, {
+			"anime_id": "76",
+			"anime_name": "F",
+			"anime_step": 5
+		}, {
+			"anime_id": "77",
+			"anime_name": "G",
+			"anime_step": 5
+		}, {
+			"anime_id": "78",
+			"anime_name": "H",
+			"anime_step": 5
+		}, {
+			"anime_id": "79",
+			"anime_name": "I",
+			"anime_step": 6
+		}, {
+			"anime_id": "80",
+			"anime_name": "J",
+			"anime_step": 5
+		}, {
+			"anime_id": "81",
+			"anime_name": "K",
+			"anime_step": 5
+		}, {
+			"anime_id": "82",
+			"anime_name": "L",
+			"anime_step": 5
+		}, {
+			"anime_id": "83",
+			"anime_name": "M",
+			"anime_step": 5
+		}, {
+			"anime_id": "84",
+			"anime_name": "N",
+			"anime_step": 4
+		}, {
+			"anime_id": "85",
+			"anime_name": "O",
+			"anime_step": 5
+		}, {
+			"anime_id": "86",
+			"anime_name": "P",
+			"anime_step": 4
+		}, {
+			"anime_id": "87",
+			"anime_name": "Q",
+			"anime_step": 5
+		}, {
+			"anime_id": "88",
+			"anime_name": "R",
+			"anime_step": 5
+		}, {
+			"anime_id": "89",
+			"anime_name": "S",
+			"anime_step": 5
+		}, {
+			"anime_id": "90",
+			"anime_name": "T",
+			"anime_step": 5
+		}, {
+			"anime_id": "91",
+			"anime_name": "U",
+			"anime_step": 5
+		}, {
+			"anime_id": "92",
+			"anime_name": "V",
+			"anime_step": 5
+		}, {
+			"anime_id": "93",
+			"anime_name": "W",
+			"anime_step": 5
+		}, {
+			"anime_id": "94",
+			"anime_name": "X",
+			"anime_step": 5
+		}, {
+			"anime_id": "95",
+			"anime_name": "Y",
+			"anime_step": 5
+		}, {
+			"anime_id": "96",
+			"anime_name": "Z",
+			"anime_step": 5
+		}]
+	}, {
+		"category_id": "1001",
+		"category_name": "Letter A",
+		"category_thumbnail": "1001.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "1",
+			"anime_name": "Alphabet",
+			"anime_step": 26
+		}, {
+			"anime_id": "2",
+			"anime_name": "Andi",
+			"anime_step": 9
+		}, {
+			"anime_id": "3",
+			"anime_name": "Arte",
+			"anime_step": 10
+		}]
+	}, {
+		"category_id": "1002",
+		"category_name": "Letter B",
+		"category_thumbnail": "1002.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "1",
+			"anime_name": "Basketball",
+			"anime_step": 6
+		}, {
+			"anime_id": "2",
+			"anime_name": "Best",
+			"anime_step": 8
+		}, {
+			"anime_id": "3",
+			"anime_name": "BMX",
+			"anime_step": 6
+		}, {
+			"anime_id": "4",
+			"anime_name": "Bomb 1",
+			"anime_step": 6
+		}, {
+			"anime_id": "5",
+			"anime_name": "Bomb 2",
+			"anime_step": 8
+		}, {
+			"anime_id": "6",
+			"anime_name": "Batl",
+			"anime_step": 18
+		}]
+	}, {
+		"category_id": "1003",
+		"category_name": "Letter C",
+		"category_thumbnail": "1003.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "1",
+			"anime_name": "Candy",
+			"anime_step": 9
+		}, {
+			"anime_id": "2",
+			"anime_name": "Censored",
+			"anime_step": 5
+		}, {
+			"anime_id": "3",
+			"anime_name": "Crew",
+			"anime_step": 23
+		}]
+	}, {
+		"category_id": "1004",
+		"category_name": "Letter D",
+		"category_thumbnail": "1004.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "1",
+			"anime_name": "Dr Dre",
+			"anime_step": 5
+		}, {
+			"anime_id": "2",
+			"anime_name": "Dream",
+			"anime_step": 9
+		}, {
+			"anime_id": "3",
+			"anime_name": "DubStep 1",
+			"anime_step": 30
+		}, {
+			"anime_id": "5",
+			"anime_name": "DubStep 2",
+			"anime_step": 11
+		}, {
+			"anime_id": "4",
+			"anime_name": "DuB",
+			"anime_step": 30
+		}]
+	}, {
+		"category_id": "1006",
+		"category_name": "Letter F",
+		"category_thumbnail": "1006.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "1",
+			"anime_name": "FreeStyle 1",
+			"anime_step": 7
+		}, {
+			"anime_id": "2",
+			"anime_name": "FreeStyle 2",
+			"anime_step": 9
+		}]
+	}, {
+		"category_id": "1007",
+		"category_name": "Letter G",
+		"category_thumbnail": "1007.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "1",
+			"anime_name": "Ganja",
+			"anime_step": 7
+		}, {
+			"anime_id": "4",
+			"anime_name": "Gangsta",
+			"anime_step": 10
+		}, {
+			"anime_id": "2",
+			"anime_name": "Graffiti 1",
+			"anime_step": 12
+		}, {
+			"anime_id": "3",
+			"anime_name": "Graffiti 2",
+			"anime_step": 5
+		}]
+	}, {
+		"category_id": "1008",
+		"category_name": "Letter H",
+		"category_thumbnail": "1008.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "1",
+			"anime_name": "Hip-Hop 1",
+			"anime_step": 7
+		}, {
+			"anime_id": "2",
+			"anime_name": "Hip-Hop 2",
+			"anime_step": 9
+		}, {
+			"anime_id": "3",
+			"anime_name": "Hope 1",
+			"anime_step": 9
+		}, {
+			"anime_id": "4",
+			"anime_name": "Hope 2",
+			"anime_step": 8
+		}]
+	}, {
+		"category_id": "1010",
+		"category_name": "Letter J",
+		"category_thumbnail": "1010.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "1",
+			"anime_name": "Jay-Z",
+			"anime_step": 6
+		}, {
+			"anime_id": "2",
+			"anime_name": "Jesus",
+			"anime_step": 17
+		}]
+	}, {
+		"category_id": "1011",
+		"category_name": "Letter K",
+		"category_thumbnail": "1011.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "1",
+			"anime_name": "King",
+			"anime_step": 9
+		}]
+	}, {
+		"category_id": "1012",
+		"category_name": "Letter L",
+		"category_thumbnail": "1012.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "1",
+			"anime_name": "Love 1",
+			"anime_step": 9
+		}, {
+			"anime_id": "2",
+			"anime_name": "Love 2",
+			"anime_step": 9
+		}, {
+			"anime_id": "3",
+			"anime_name": "Love 3",
+			"anime_step": 9
+		}, {
+			"anime_id": "4",
+			"anime_name": "Lucky",
+			"anime_step": 9
+		}]
+	}, {
+		"category_id": "1013",
+		"category_name": "Letter M",
+		"category_thumbnail": "1013.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "1",
+			"anime_name": "Mom",
+			"anime_step": 8
+		}, {
+			"anime_id": "2",
+			"anime_name": "Money",
+			"anime_step": 10
+		}, {
+			"anime_id": "3",
+			"anime_name": "Music 1",
+			"anime_step": 9
+		}, {
+			"anime_id": "4",
+			"anime_name": "Music 2",
+			"anime_step": 7
+		}, {
+			"anime_id": "5",
+			"anime_name": "Music 3",
+			"anime_step": 9
+		}, {
+			"anime_id": "6",
+			"anime_name": "Monsta",
+			"anime_step": 22
+		}]
+	}, {
+		"category_id": "1014",
+		"category_name": "Letter N",
+		"category_thumbnail": "1014.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "1",
+			"anime_name": "Notorious BIG",
+			"anime_step": 8
+		}]
+	}, {
+		"category_id": "1015",
+		"category_name": "Letter O",
+		"category_thumbnail": "1015.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "1",
+			"anime_name": "Obey",
+			"anime_step": 8
+		}, {
+			"anime_id": "2",
+			"anime_name": "Old School 1",
+			"anime_step": 13
+		}, {
+			"anime_id": "3",
+			"anime_name": "Old School 2",
+			"anime_step": 6
+		}]
+	}, {
+		"category_id": "1016",
+		"category_name": "Letter P",
+		"category_thumbnail": "1016.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "1",
+			"anime_name": "Peace 1",
+			"anime_step": 9
+		}, {
+			"anime_id": "2",
+			"anime_name": "Peace 2",
+			"anime_step": 16
+		}, {
+			"anime_id": "3",
+			"anime_name": "Pink",
+			"anime_step": 11
+		}]
+	}, {
+		"category_id": "1018",
+		"category_name": "Letter R",
+		"category_thumbnail": "1018.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "1",
+			"anime_name": "Risk",
+			"anime_step": 8
+		}, {
+			"anime_id": "2",
+			"anime_name": "Rock 1",
+			"anime_step": 9
+		}, {
+			"anime_id": "3",
+			"anime_name": "Rock 2",
+			"anime_step": 10
+		}, {
+			"anime_id": "4",
+			"anime_name": "Respect",
+			"anime_step": 23
+		}]
+	}, {
+		"category_id": "1017",
+		"category_name": "Letter S",
+		"category_thumbnail": "1017.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "1",
+			"anime_name": "Selfie",
+			"anime_step": 9
+		}, {
+			"anime_id": "2",
+			"anime_name": "Skateboard",
+			"anime_step": 8
+		}, {
+			"anime_id": "3",
+			"anime_name": "Soul 1",
+			"anime_step": 9
+		}, {
+			"anime_id": "8",
+			"anime_name": "Soul 2",
+			"anime_step": 16
+		}, {
+			"anime_id": "4",
+			"anime_name": "Streetball",
+			"anime_step": 9
+		}, {
+			"anime_id": "5",
+			"anime_name": "Style 1",
+			"anime_step": 9
+		}, {
+			"anime_id": "6",
+			"anime_name": "Style 2",
+			"anime_step": 10
+		}, {
+			"anime_id": "7",
+			"anime_name": "Swag 1",
+			"anime_step": 8
+		}, {
+			"anime_id": "9",
+			"anime_name": "Swag 2",
+			"anime_step": 9
+		}]
+	}, {
+		"category_id": "1019",
+		"category_name": "Letter T",
+		"category_thumbnail": "1019.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "1",
+			"anime_name": "Teamo",
+			"anime_step": 10
+		}]
+	}, {
+		"category_id": "1020",
+		"category_name": "Letter U",
+		"category_thumbnail": "1020.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "1",
+			"anime_name": "Underground",
+			"anime_step": 6
+		}, {
+			"anime_id": "2",
+			"anime_name": "Urban",
+			"anime_step": 6
+		}]
+	}, {
+		"category_id": "1022",
+		"category_name": "Letter W",
+		"category_thumbnail": "1022.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "1",
+			"anime_name": "Wanted",
+			"anime_step": 7
+		}, {
+			"anime_id": "2",
+			"anime_name": "Wild Style",
+			"anime_step": 21
+		}]
+	}, {
+		"category_id": "1024",
+		"category_name": "Letter Y",
+		"category_thumbnail": "1024.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "1",
+			"anime_name": "Yolo",
+			"anime_step": 7
+		}, {
+			"anime_id": "2",
+			"anime_name": "Yes",
+			"anime_step": 19
+		}]
+	}, {
+		"category_id": "1025",
+		"category_name": "Letter Z",
+		"category_thumbnail": "1025.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "1",
+			"anime_name": "Zombie",
+			"anime_step": 12
+		}]
+	}, {
+		"category_id": "1026",
+		"category_name": "Numeric",
+		"category_thumbnail": "1026.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "1",
+			"anime_name": "2 Pac",
+			"anime_step": 7
+		}, {
+			"anime_id": "2",
+			"anime_name": "50 Cent",
+			"anime_step": 8
+		}]
+	}]
 }
