@@ -1,7 +1,7 @@
 {
 	"categories": [{
 		"category_id": "1000",
-		"category_name": "Graffiti",
+		"category_name": "All",
 		"category_thumbnail": "1000.png",
 		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/graffiti/master/",
 		"file_extension": "png",
@@ -392,9 +392,9 @@
 			"anime_step": 5
 		}]
 	}, {
-		"category_id": "1000",
+		"category_id": "10000",
 		"category_name": "Alphabet",
-		"category_thumbnail": "1000.png",
+		"category_thumbnail": "10000.png",
 		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
 		"file_extension": "png",
 		"animes": [{
