@@ -503,9 +503,9 @@
 			"anime_step": 5
 		}]
 	}, {
-		"category_id": "1001",
+		"category_id": "10001",
 		"category_name": "Letter A",
-		"category_thumbnail": "1001.png",
+		"category_thumbnail": "10001.png",
 		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
 		"file_extension": "png",
 		"animes": [{
@@ -522,9 +522,9 @@
 			"anime_step": 10
 		}]
 	}, {
-		"category_id": "1002",
+		"category_id": "10002",
 		"category_name": "Letter B",
-		"category_thumbnail": "1002.png",
+		"category_thumbnail": "10002.png",
 		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
 		"file_extension": "png",
 		"animes": [{
@@ -553,9 +553,9 @@
 			"anime_step": 18
 		}]
 	}, {
-		"category_id": "1003",
+		"category_id": "10003",
 		"category_name": "Letter C",
-		"category_thumbnail": "1003.png",
+		"category_thumbnail": "10003.png",
 		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
 		"file_extension": "png",
 		"animes": [{
@@ -572,9 +572,9 @@
 			"anime_step": 23
 		}]
 	}, {
-		"category_id": "1004",
+		"category_id": "10004",
 		"category_name": "Letter D",
-		"category_thumbnail": "1004.png",
+		"category_thumbnail": "10004.png",
 		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/android_graffiti/master/",
 		"file_extension": "png",
 		"animes": [{
