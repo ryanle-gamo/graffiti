@@ -1,0 +1,9 @@
+{
+"latest_version": "2.2.5",
+"is_testing": false,
+"is_update_forced": false,
+"category_url": "https://raw.githubusercontent.com/ryanle-gamo/graffiti/master/draw_graffiti_category_v2.json",
+"category_url_alpha": "https://raw.githubusercontent.com/ryanle-gamo/graffiti/master/draw_graffiti_category_alpha.json",
+"file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_lego/",
+"appstore_url": "https://apps.apple.com/us/app/id1088775960"
+}
