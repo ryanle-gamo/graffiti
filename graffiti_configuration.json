@@ -7,5 +7,6 @@
 "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_lego/",
 "appstore_url": "https://apps.apple.com/us/app/id1088775960",
   "stop_step_index_at":3,
-  "is_idfa_enabled":true
+  "is_idfa_enabled":true,
+  "isDetailAdsFloat":true
 }
