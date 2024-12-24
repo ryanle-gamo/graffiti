@@ -1,7 +1,7 @@
 {
-"latest_version": "2.3.3",
+"latest_version": "2.3.4",
 "is_testing": false,
-"is_update_forced": false,
+"is_update_forced": true,
 "category_url": "https://raw.githubusercontent.com/ryanle-gamo/graffiti/master/draw_graffiti_category_v2.json",
 "category_url_alpha": "https://raw.githubusercontent.com/ryanle-gamo/graffiti/master/draw_graffiti_category_alpha.json",
 "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_lego/",
